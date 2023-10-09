@@ -1,0 +1,15 @@
+C:\projetoBase\Projeto1\bin\Debug\net7.0\Projeto1.exe
+C:\projetoBase\Projeto1\bin\Debug\net7.0\Projeto1.deps.json
+C:\projetoBase\Projeto1\bin\Debug\net7.0\Projeto1.runtimeconfig.json
+C:\projetoBase\Projeto1\bin\Debug\net7.0\Projeto1.dll
+C:\projetoBase\Projeto1\bin\Debug\net7.0\Projeto1.pdb
+C:\projetoBase\Projeto1\obj\Debug\net7.0\Projeto1.csproj.AssemblyReference.cache
+C:\projetoBase\Projeto1\obj\Debug\net7.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoBase\Projeto1\obj\Debug\net7.0\Projeto1.AssemblyInfoInputs.cache
+C:\projetoBase\Projeto1\obj\Debug\net7.0\Projeto1.AssemblyInfo.cs
+C:\projetoBase\Projeto1\obj\Debug\net7.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\projetoBase\Projeto1\obj\Debug\net7.0\Projeto1.dll
+C:\projetoBase\Projeto1\obj\Debug\net7.0\refint\Projeto1.dll
+C:\projetoBase\Projeto1\obj\Debug\net7.0\Projeto1.pdb
+C:\projetoBase\Projeto1\obj\Debug\net7.0\Projeto1.genruntimeconfig.cache
+C:\projetoBase\Projeto1\obj\Debug\net7.0\ref\Projeto1.dll
