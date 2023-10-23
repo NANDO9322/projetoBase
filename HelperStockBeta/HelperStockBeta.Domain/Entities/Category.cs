@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace HelperStockBeta.Domain.Entities
 {
-    public sealed class Category
+    public sealed class Category : Entity
     {
-        public int Id { get; private set; }
         public string Name { get; private set; }
 
         //Relações de entidades
@@ -26,6 +25,10 @@ namespace HelperStockBeta.Domain.Entities
             Id = id;
             ValidateDomain(name);
             Name = name;
+        }
+        public void Update(string name)
+        {
+            ValidateDomain(name);
         }
         public void ValidateDomain(string name)
         {
