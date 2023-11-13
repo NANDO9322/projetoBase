@@ -25,3 +25,18 @@ Projeto para inicializarmos o contexto de serviços em C# com .net core.
 - Recursos de acesso a camada de Infra dados.
 - Interfaces de comunicação com modelo MER via ORM Entity Framework.
 - Camada de testes automatizados usando xUnit.
+
+# Arquitetura de Infra estrutura
+- Configuração da infra estrutura de Entity Framework.
+- Configuração das Classes em camada de dados.
+- Infraestrutura de interfaces.
+- Entidades de Infra estrutura no Sql, Design, Core.
+
+# Modelagem de Inversão de Controle com Injeção de Dependência
+- Determinação da classe de IServiceCollection.
+- Vinculo com a mecânica de persistência do motor de Repository.
+- Modelo de construtor da IoC.
+
+[Imagem de Implementação Lógica]
+![image](https://github.com/victoricoma/projetoBase/assets/31005408/c7e50b99-c921-4268-9bc0-481b5ef58c73)
+
