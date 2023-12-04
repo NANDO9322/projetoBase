@@ -12,6 +12,7 @@ namespace HelperStockBeta.WebUI
 
         public void ConfigureServices(IServiceCollection services)
         {
+            
             services.AddInfrastructure(Configuration);
             services.AddControllersWithViews();
         }
